@@ -1,3 +1,5 @@
 This is a local repository 
 trying new git bash commands
 Today is asteroid day
+Adding text/info from edit 
+tool in remote repository 
